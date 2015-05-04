@@ -1,0 +1,5 @@
+# Change all parameters for your username password and domain
+USERNAME=username
+PASSWORD=passwordINBASE64
+DOMAIN=host.domain.net
+FREQUENCY=1
